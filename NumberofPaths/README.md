@@ -15,9 +15,11 @@ Output: 6
 Let the given input 3\*3 matrix is filled
 as such:
 
-A B C
-D E F
-G H I
+A  B  C
+
+D  E  F
+
+G  H  I
 
 The possible paths which exists to reach
 'I' from 'A' following above conditions
