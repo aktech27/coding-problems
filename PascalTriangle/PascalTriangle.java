@@ -16,7 +16,7 @@ public class PascalTriangle {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows : ");
         int rows = sc.nextInt();
-        for (int i = 0; i <= rows; i++) {
+        for (int i = 0; i < rows; i++) {
             for (int blanks = 1; blanks <= rows - i; blanks++) {
                 System.out.print(" ");
             }
