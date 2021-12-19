@@ -1,4 +1,4 @@
-# Sum of two numbers in the given base
+# Array Threshold
 
 Given an array and a threshold value find the output
 
