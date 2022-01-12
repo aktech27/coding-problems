@@ -1,6 +1,6 @@
-# ZOHO Round 2
+# Coding Problems
 
-Solutions for Zoho Round 2 programming questions in JAVA.
+Solutions for FAQ programming questions in JAVA.
 
 ## Authors
 
